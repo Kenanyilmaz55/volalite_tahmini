@@ -3,6 +3,7 @@
 Bu proje, finansal piyasalardaki bir varlığın 24 saatlik volatilitesini tahmin etmek ve ardından risk durumunu sınıflandırmak amacıyla iki makine öğrenmesi modeli içerir. Proje, hem regresyon hem de sınıflandırma problemlerini çözmeyi hedeflemektedir.
 
 - veri_seti_olusturma.py dosyasinda binance borsasindan btc 1 saatlik verileri çekilerek btc_veri.csv dosyasi oluşturumuştur.
+- colab_tüm_kodlar.ipynb adlı dosyada önce tahmin modeli ardından sınıflandırma modeli kodları bir arada sonuçları ile verilmiştir.
 ## Projenin Genel Yapısı
 
 ### Verinin İşlenmesi
