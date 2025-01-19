@@ -208,5 +208,7 @@ Sınıflandırma modelini çalıştırmak için aşağıdaki adımları izleyin:
 
 - Yüksek korelasyona sahip özellikler ve seçilen nihai özellikler şu dosyalara kaydedilir:
   - `high_correlation_with_volatility.csv`
-  - `selected_volatility.csv`
+  - `selected_volatility.csv
+  
+YOUTUBE VİDEO LİNK : `https://www.youtube.com/watch?v=0sa_Y3HR_c4
 
